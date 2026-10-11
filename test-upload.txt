@@ -1,0 +1,4 @@
+Hello from ClipBridge!
+
+This is a sample test file for verifying file upload, streaming, and cross-device sharing functionality.
+Timestamp: 2026-10-11
