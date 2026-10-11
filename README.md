@@ -181,7 +181,7 @@ Install the following software:
 Replace the example URL with your actual public GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ClipBridge.git
+git clone https://github.com/Manikandan-e56/ClipBridge.git
 cd ClipBridge
 ```
 
